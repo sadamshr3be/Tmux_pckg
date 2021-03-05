@@ -4,6 +4,8 @@
 
 # Usage
 
+https://github.com/sadamshr3be/Tmux_pckg/blob/main/Capture%2B_2021-03-05-12-14-23.png
+
 ```
 • pkg update -y
 
