@@ -28,7 +28,7 @@ pkg install python2 -y
 • chmod +x *
 
 
-• python Tmuxpckg.py
+• python3 Tmuxpckg.py
 
 
 قناتي علـّۓ  التلجرام
