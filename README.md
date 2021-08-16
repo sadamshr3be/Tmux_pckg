@@ -30,6 +30,10 @@ pkg install python2 -y
 
 • python3 Tmuxpckg.py
 
+# المدونة
+
+https://termuxalsharabi.blogspot.com
+
 
 قناتي علـّۓ  التلجرام
 
